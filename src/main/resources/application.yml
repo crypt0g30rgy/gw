@@ -1,0 +1,11 @@
+auth:
+  jwt:
+    secret-key: sahgjksafafhjkfahvasdfkhsdakshaldfcsda
+
+aws:
+  s3:
+    bucket-name: poc-demo-app-s3
+    region: us-east-1
+  credentials:
+    access-key: AKIAIOSFODNN7EXAMPLE
+    secret-key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
